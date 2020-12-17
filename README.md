@@ -24,7 +24,8 @@ This image is a project milestones page that lists all the project milestones ta
 This image is the project overdue tasks page that lists all the overdue tasks, assignees and due dates.
 
 
-#Project Close
+# Project Close
+
 ![4](https://user-images.githubusercontent.com/76075363/102552099-75677d80-4075-11eb-877f-6cd29246dfa8.png)
 
 The project required my team member and I to rotate as Project Managers to ensure the successful implementation of the Asana Software. This project was one of the assignments in the Technical Project Manager course that I was enrolled in. We were able to accomplish the goal utilizing the Asana software and created a presentation in which we were able to justify our choice to our cohort.
